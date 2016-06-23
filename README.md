@@ -9,3 +9,8 @@ Jun 22
 
 [258. Add Digits](https://leetcode.com/problems/add-digits/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/3)&nbsp;&nbsp;&nbsp;&nbsp;
+
+Jun 23
+
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/4)&nbsp;&nbsp;&nbsp;&nbsp;
