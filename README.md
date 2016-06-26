@@ -17,3 +17,19 @@ Jun 23
 
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/5)&nbsp;&nbsp;&nbsp;&nbsp;
+
+Jun 24
+
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/6)&nbsp;&nbsp;&nbsp;&nbsp;
+
+Jun 26
+
+[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/7)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[100. Same Tree](https://leetcode.com/problems/same-tree/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/8)&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/9)&nbsp;&nbsp;&nbsp;&nbsp;
