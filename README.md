@@ -33,3 +33,11 @@ Jun 26
  
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/9)&nbsp;&nbsp;&nbsp;&nbsp;
+
+Jun 29
+
+[169. Majority Element](https://leetcode.com/problems/majority-element/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/10)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/11)&nbsp;&nbsp;&nbsp;&nbsp;
