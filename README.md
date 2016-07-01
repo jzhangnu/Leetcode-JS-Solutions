@@ -41,3 +41,8 @@ Jun 29
 
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/11)&nbsp;&nbsp;&nbsp;&nbsp;
+
+Jun 30
+
+*[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/12)&nbsp;&nbsp;&nbsp;&nbsp;
