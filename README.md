@@ -52,10 +52,10 @@ Oct 18
 [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/13)&nbsp;&nbsp;&nbsp;&nbsp;
 
-![206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;&nbsp;&nbsp;
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/14)&nbsp;&nbsp;&nbsp;&nbsp;
 
-![387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)&nbsp;&nbsp;&nbsp;
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/15)&nbsp;&nbsp;&nbsp;&nbsp;
 
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)&nbsp;&nbsp;&nbsp;
