@@ -61,4 +61,15 @@ Oct 18
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/16)&nbsp;&nbsp;&nbsp;&nbsp;
 
+Oct 19
+
+[326. Power of Three](https://leetcode.com/problems/power-of-three/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/17)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[136. Single Number](https://leetcode.com/problems/single-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/18)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/19)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
