@@ -73,6 +73,7 @@ Oct 19
 [题解](https://github.com/jzhangnu/leetcode-js/issues/19)&nbsp;&nbsp;&nbsp;&nbsp;
 
 Oct 21
+
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/20)&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -82,7 +83,7 @@ Oct 21
 [263. Ugly Number](https://leetcode.com/problems/ugly-number/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/22)&nbsp;&nbsp;&nbsp;&nbsp;
 
-![389. Find the Difference](https://leetcode.com/problems/find-the-difference/)&nbsp;&nbsp;&nbsp;
+*[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/23)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
