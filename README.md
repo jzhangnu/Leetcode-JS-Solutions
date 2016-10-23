@@ -72,4 +72,17 @@ Oct 19
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/19)&nbsp;&nbsp;&nbsp;&nbsp;
 
+Oct 21
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/20)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/21)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[263. Ugly Number](https://leetcode.com/problems/ugly-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/22)&nbsp;&nbsp;&nbsp;&nbsp;
+
+![389. Find the Difference](https://leetcode.com/problems/find-the-difference/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/23)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
