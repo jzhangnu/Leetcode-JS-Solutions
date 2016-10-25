@@ -86,4 +86,8 @@ Oct 21
 *[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/24)&nbsp;&nbsp;&nbsp;&nbsp;
 
+Oct 25
+*[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/2)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
