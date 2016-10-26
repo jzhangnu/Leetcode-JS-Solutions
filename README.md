@@ -97,4 +97,12 @@ Oct 26
 [题解](https://github.com/jzhangnu/leetcode-js/issues/26)&nbsp;&nbsp;&nbsp;&nbsp;
 Divide and Conquer || Recursion || Binary Tree
 
+M[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/27)&nbsp;&nbsp;&nbsp;&nbsp;
+Greedy || Enumeration
+
+[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/27)&nbsp;&nbsp;&nbsp;&nbsp;
+Binary Search || Divide and Conquer || Recursion
+
 
