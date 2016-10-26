@@ -102,7 +102,18 @@ M[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)&nbsp;&n
 Greedy || Enumeration
 
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/27)&nbsp;&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/28)&nbsp;&nbsp;&nbsp;&nbsp;
 Binary Search || Divide and Conquer || Recursion
 
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/29)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List
+
+[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/30)&nbsp;&nbsp;&nbsp;&nbsp;
+Recursion
+
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/31)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List
 
