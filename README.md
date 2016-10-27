@@ -3,6 +3,7 @@ Jun 22
 
 [1.Two Sum](https://leetcode.com/problems/two-sum/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/1)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table || Sort
 
 [344. Reverse String](https://leetcode.com/problems/reverse-string/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/2)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -115,5 +116,9 @@ Recursion
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/31)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List
+
+[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/32)&nbsp;&nbsp;&nbsp;&nbsp;
 Linked List
 
