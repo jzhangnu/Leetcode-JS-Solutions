@@ -123,3 +123,9 @@ Linked List
 [题解](https://github.com/jzhangnu/leetcode-js/issues/32)&nbsp;&nbsp;&nbsp;&nbsp;
 Linked List
 
+Oct 27
+
+[49. Group Anagrams](https://leetcode.com/problems/anagrams/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/33)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
