@@ -15,6 +15,7 @@ Jun 23
 
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/4)&nbsp;&nbsp;&nbsp;&nbsp;
+Divide and Conquer || Recursion || Binary Tree
 
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/5)&nbsp;&nbsp;&nbsp;&nbsp;
