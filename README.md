@@ -129,3 +129,6 @@ Oct 27
 [题解](https://github.com/jzhangnu/leetcode-js/issues/33)&nbsp;&nbsp;&nbsp;&nbsp;
 Hash Table
 
+[229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/34)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
