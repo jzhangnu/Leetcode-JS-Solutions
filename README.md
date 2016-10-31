@@ -132,3 +132,13 @@ Hash Table
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/34)&nbsp;&nbsp;&nbsp;&nbsp;
 Hash Table
+
+Oct 30
+
+[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/35)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/36)&nbsp;&nbsp;&nbsp;&nbsp;
+
