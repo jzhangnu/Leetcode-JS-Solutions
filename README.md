@@ -142,3 +142,18 @@ Hash Table
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/36)&nbsp;&nbsp;&nbsp;&nbsp;
 
+Nov 1
+
+[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)&nbsp;&nbsp;&nbsp;
+
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/37)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/38)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[27. Remove Element](https://leetcode.com/problems/remove-element/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/39)&nbsp;&nbsp;&nbsp;&nbsp;
+Two Pointers
+
+
