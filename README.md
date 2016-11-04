@@ -157,3 +157,16 @@ Nov 1
 Two Pointers
 
 
+Nov 3
+
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/40)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+[38. Count and Say](https://leetcode.com/problems/count-and-say/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/41)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+
+
+
