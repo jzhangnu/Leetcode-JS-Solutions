@@ -167,6 +167,20 @@ Hash Table
 [题解](https://github.com/jzhangnu/leetcode-js/issues/41)&nbsp;&nbsp;&nbsp;&nbsp;
 String
 
+Nov 6
+
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/42)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+[219. Contains Duplicate I](https://leetcode.com/problems/contains-duplicate-ii/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/43)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/44)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
 
 
 
