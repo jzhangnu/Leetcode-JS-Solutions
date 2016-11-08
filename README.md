@@ -181,6 +181,19 @@ Hash Table
 [题解](https://github.com/jzhangnu/leetcode-js/issues/44)&nbsp;&nbsp;&nbsp;&nbsp;
 Hash Table
 
+Nov 7
+
+[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/45)&nbsp;&nbsp;&nbsp;&nbsp;
+Array
+
+[189. Rotate Array](https://leetcode.com/problems/rotate-array/)&nbsp;&nbsp;&nbsp;
+Array
+
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/46)&nbsp;&nbsp;&nbsp;&nbsp;
+Array
+
 
 
 
