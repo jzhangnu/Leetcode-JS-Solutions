@@ -194,6 +194,27 @@ Array
 [题解](https://github.com/jzhangnu/leetcode-js/issues/46)&nbsp;&nbsp;&nbsp;&nbsp;
 Array
 
+Nov 8
+
+[165. Compare Version Numbers](https://leetcode.com/problems/third-maximum-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/47)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[383. Ransom Note](https://leetcode.com/problems/ransom-note/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/48)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/49)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/50)&nbsp;&nbsp;&nbsp;&nbsp;
+String || Stack
+
+
+
+
 
 
 
