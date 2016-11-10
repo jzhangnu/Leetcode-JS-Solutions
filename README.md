@@ -213,6 +213,26 @@ String
 String || Stack
 
 
+Nov 9
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/51)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/52)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[202. Happy Number](https://leetcode.com/problems/happy-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/53)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/54)&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
 
 
 
