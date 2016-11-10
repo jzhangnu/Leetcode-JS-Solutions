@@ -229,6 +229,27 @@ Hash Table
 
 [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/54)&nbsp;&nbsp;&nbsp;&nbsp;
+Stack
+
+Nov 10
+
+[225. Implement Stack using Queues](https://leetcode.com/problems/longest-common-prefix/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/55)&nbsp;&nbsp;&nbsp;&nbsp;
+Stack
+
+[198. House Robber](https://leetcode.com/problems/house-robber/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/56)&nbsp;&nbsp;&nbsp;&nbsp;
+DP
+
+[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/57)&nbsp;&nbsp;&nbsp;&nbsp;
+DP
+
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/58)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/59)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
