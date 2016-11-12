@@ -270,6 +270,16 @@ Binary Search || Greedy
 Binary Search
 
 
+Nov 12
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/64)&nbsp;&nbsp;&nbsp;&nbsp;
+
+[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/65)&nbsp;&nbsp;&nbsp;&nbsp;
+Backtracking
+
+
 
 
 
