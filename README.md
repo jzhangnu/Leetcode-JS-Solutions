@@ -279,6 +279,17 @@ Nov 12
 [题解](https://github.com/jzhangnu/leetcode-js/issues/65)&nbsp;&nbsp;&nbsp;&nbsp;
 Backtracking
 
+Nov 15
+
+[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/66)&nbsp;&nbsp;&nbsp;&nbsp;
+Two Pointers | String
+
+[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/67)&nbsp;&nbsp;&nbsp;&nbsp;
+Array
+
+
 
 
 
