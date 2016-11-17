@@ -307,6 +307,16 @@ Linked List
 [题解](https://github.com/jzhangnu/leetcode-js/issues/71)&nbsp;&nbsp;&nbsp;&nbsp;
 Linked List | two pointers
 
+Nov 17
+
+[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/72)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List | two pointers
+
+[112. Path Sum](https://leetcode.com/problems/path-sum/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/73)&nbsp;&nbsp;&nbsp;&nbsp;
+Tree | DFS
+
 
 
 
