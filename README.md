@@ -289,6 +289,24 @@ Two Pointers | String
 [题解](https://github.com/jzhangnu/leetcode-js/issues/67)&nbsp;&nbsp;&nbsp;&nbsp;
 Array
 
+Nov 16
+
+[204. Count Primes](https://leetcode.com/problems/count-primes/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/68)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table | Math
+
+[396. Rotate Function](https://leetcode.com/problems/rotate-function/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/69)&nbsp;&nbsp;&nbsp;&nbsp;
+Math
+
+[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/70)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List
+
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/71)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List | two pointers
+
 
 
 
