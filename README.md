@@ -305,7 +305,7 @@ Linked List
 
 [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/71)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List | two pointers
+Linked List | two pointers 
 
 Nov 17
 
@@ -316,6 +316,10 @@ Linked List | two pointers
 [112. Path Sum](https://leetcode.com/problems/path-sum/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/73)&nbsp;&nbsp;&nbsp;&nbsp;
 Tree | DFS
+
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/74)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
 
 
 
