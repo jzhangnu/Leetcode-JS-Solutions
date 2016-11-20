@@ -321,6 +321,20 @@ Tree | DFS
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/74)&nbsp;&nbsp;&nbsp;&nbsp;
 Hash Table
 
+Nov 20
+
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/75)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List | two pointers
+
+-[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/76)&nbsp;&nbsp;&nbsp;&nbsp;
+Tree | BFS
+
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/77)&nbsp;&nbsp;&nbsp;&nbsp;
+Tree | BFS
+
 
 
 
