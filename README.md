@@ -335,7 +335,19 @@ Tree | BFS
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/77)&nbsp;&nbsp;&nbsp;&nbsp;
 Tree | BFS
 
+Nov 28
 
+[24. Swap Nodes in Pairs](https://leetcode.com/problems/linked-list-cycle/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/78)&nbsp;&nbsp;&nbsp;&nbsp;
+Linked List
+
+[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/79)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/80)&nbsp;&nbsp;&nbsp;&nbsp;
+Greedy
 
 
 
