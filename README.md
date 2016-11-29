@@ -349,8 +349,18 @@ String
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/80)&nbsp;&nbsp;&nbsp;&nbsp;
 Greedy
 
+Nov 29
+[260. Single Number III](https://leetcode.com/problems/single-number-iii/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/81)&nbsp;&nbsp;&nbsp;&nbsp;
+Array | Hash
 
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/82)&nbsp;&nbsp;&nbsp;&nbsp;
+Array
 
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/83)&nbsp;&nbsp;&nbsp;&nbsp;
+HashMap
 
 
 
