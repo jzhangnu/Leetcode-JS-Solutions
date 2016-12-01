@@ -350,6 +350,7 @@ String
 Greedy
 
 Nov 29
+
 [260. Single Number III](https://leetcode.com/problems/single-number-iii/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/81)&nbsp;&nbsp;&nbsp;&nbsp;
 Array | Hash
@@ -362,7 +363,13 @@ Array
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/83)&nbsp;&nbsp;&nbsp;&nbsp;
 HashMap
 
+Nov 30
 
+[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/84)&nbsp;&nbsp;&nbsp;&nbsp;
+Greedy
 
-
+[268. Missing Number](https://leetcode.com/problems/missing-number/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/85)&nbsp;&nbsp;&nbsp;&nbsp;
+Array | Bit
 
