@@ -374,7 +374,12 @@ M[268. Missing Number](https://leetcode.com/problems/missing-number/)&nbsp;&nbsp
 Array | Bit
 
 Dec 1
+
 M[46. Permutations](https://leetcode.com/problems/permutations/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/86)&nbsp;&nbsp;&nbsp;&nbsp;
-Recursion
+Backtracking | Recursion
+
+M[78. Subsets](https://leetcode.com/problems/subsets/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/87)&nbsp;&nbsp;&nbsp;&nbsp;
+Backtracking | Recursion
 
