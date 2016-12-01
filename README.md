@@ -351,25 +351,30 @@ Greedy
 
 Nov 29
 
-[260. Single Number III](https://leetcode.com/problems/single-number-iii/)&nbsp;&nbsp;&nbsp;
+M[260. Single Number III](https://leetcode.com/problems/single-number-iii/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/81)&nbsp;&nbsp;&nbsp;&nbsp;
 Array | Hash
 
-[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)&nbsp;&nbsp;&nbsp;
+M[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/82)&nbsp;&nbsp;&nbsp;&nbsp;
 Array
 
-[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)&nbsp;&nbsp;&nbsp;
+M[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/83)&nbsp;&nbsp;&nbsp;&nbsp;
 HashMap
 
 Nov 30
 
-[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)&nbsp;&nbsp;&nbsp;
+M[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/84)&nbsp;&nbsp;&nbsp;&nbsp;
 Greedy
 
-[268. Missing Number](https://leetcode.com/problems/missing-number/)&nbsp;&nbsp;&nbsp;
+M[268. Missing Number](https://leetcode.com/problems/missing-number/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/85)&nbsp;&nbsp;&nbsp;&nbsp;
 Array | Bit
+
+Dec 1
+M[46. Permutations](https://leetcode.com/problems/permutations/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/86)&nbsp;&nbsp;&nbsp;&nbsp;
+Recursion
 
