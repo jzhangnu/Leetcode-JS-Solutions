@@ -383,3 +383,8 @@ M[78. Subsets](https://leetcode.com/problems/subsets/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/87)&nbsp;&nbsp;&nbsp;&nbsp;
 Backtracking | Recursion
 
+Dec 4
+
+M[137. Single Number II](https://leetcode.com/problems/single-number-ii/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/88)&nbsp;&nbsp;&nbsp;&nbsp;
+Bit manipulation
