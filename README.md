@@ -388,3 +388,8 @@ Dec 4
 M[137. Single Number II](https://leetcode.com/problems/single-number-ii/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/88)&nbsp;&nbsp;&nbsp;&nbsp;
 Bit manipulation
+
+Dec 25
+[266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/89)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
