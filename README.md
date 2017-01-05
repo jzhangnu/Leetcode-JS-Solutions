@@ -414,3 +414,15 @@ Array
 M[245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/94)&nbsp;&nbsp;&nbsp;&nbsp;
 Array
+
+Jan 4
+
+[293. Flip Game](https://leetcode.com/problems/flip-game/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/95)&nbsp;&nbsp;&nbsp;&nbsp;
+Hash Table
+
+M[294. Flip Game II](https://leetcode.com/problems/flip-game-ii/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/96)&nbsp;&nbsp;&nbsp;&nbsp;
+
+M[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/97)&nbsp;&nbsp;&nbsp;&nbsp;
