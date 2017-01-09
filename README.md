@@ -437,3 +437,16 @@ Two pointers
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/99)&nbsp;&nbsp;&nbsp;&nbsp;
 Two pointers
 
+Jan 8
+
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/100)&nbsp;&nbsp;&nbsp;&nbsp;
+String
+
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)&nbsp;&nbsp;&nbsp;
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/101)&nbsp;&nbsp;&nbsp;&nbsp;
+HashMap | Two Pointers
+
+
+
+
