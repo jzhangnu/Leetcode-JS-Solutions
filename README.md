@@ -448,5 +448,17 @@ String
 HashMap | Two Pointers
 
 
+Jan 9
+
+?[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/102)&nbsp;&nbsp;&nbsp;&nbsp;
+++ &nbsp;&nbsp;&nbsp;&nbsp; String
+
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/103)&nbsp;&nbsp;&nbsp;&nbsp;
+++++ &nbsp;&nbsp;&nbsp;&nbsp; String
+
 
 
