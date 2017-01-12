@@ -448,7 +448,7 @@ String
 HashMap | Two Pointers
 
 
-Jan 9
+Jan 10
 
 ?[408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)&nbsp;&nbsp;&nbsp;
 
@@ -460,5 +460,19 @@ Jan 9
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/103)&nbsp;&nbsp;&nbsp;&nbsp;
 ++++ &nbsp;&nbsp;&nbsp;&nbsp; String
 
+Jan 11
 
+[346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)&nbsp;&nbsp;&nbsp;
 
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/104)&nbsp;&nbsp;&nbsp;&nbsp;
+++ &nbsp;&nbsp;&nbsp;&nbsp; Desgin
+
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/105)&nbsp;&nbsp;&nbsp;&nbsp;
+++ &nbsp;&nbsp;&nbsp;&nbsp; Linked List
+
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/106)&nbsp;&nbsp;&nbsp;&nbsp;
+M +++ &nbsp;&nbsp;&nbsp;&nbsp; Array
