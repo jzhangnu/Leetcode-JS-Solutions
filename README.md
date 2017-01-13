@@ -476,3 +476,10 @@ Jan 11
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/106)&nbsp;&nbsp;&nbsp;&nbsp;
 M +++ &nbsp;&nbsp;&nbsp;&nbsp; Array
+
+Jan 12
+
+[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/107)&nbsp;&nbsp;&nbsp;&nbsp;
++ &nbsp;&nbsp;&nbsp;&nbsp; Math
