@@ -483,3 +483,10 @@ Jan 12
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/107)&nbsp;&nbsp;&nbsp;&nbsp;
 + &nbsp;&nbsp;&nbsp;&nbsp; Math
+
+Jan 14
+
+[371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/108)&nbsp;&nbsp;&nbsp;&nbsp;
++ &nbsp;&nbsp;&nbsp;&nbsp; Bit Manipulation
