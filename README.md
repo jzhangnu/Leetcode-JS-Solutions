@@ -482,14 +482,14 @@ Jan 12
 [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)&nbsp;&nbsp;&nbsp;
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/107)&nbsp;&nbsp;&nbsp;&nbsp;
-+ &nbsp;&nbsp;&nbsp;&nbsp; Math
+++ &nbsp;&nbsp;&nbsp;&nbsp; Math
 
 Jan 14
 
 [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)&nbsp;&nbsp;&nbsp;
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/108)&nbsp;&nbsp;&nbsp;&nbsp;
-+ &nbsp;&nbsp;&nbsp;&nbsp; Bit Manipulation
+++ &nbsp;&nbsp;&nbsp;&nbsp; Bit
 
 Jan 18
 
@@ -502,3 +502,15 @@ Jan 18
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/110)&nbsp;&nbsp;&nbsp;&nbsp;
 +++ &nbsp;&nbsp;&nbsp;&nbsp; String
+
+Jan 24
+
+[66. Plus One](https://leetcode.com/problems/plus-one/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/111)&nbsp;&nbsp;&nbsp;&nbsp;
++++ &nbsp;&nbsp;&nbsp;&nbsp; Array
+
+M[79. Word Search](https://leetcode.com/problems/word-search/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/112)&nbsp;&nbsp;&nbsp;&nbsp;
++++ &nbsp;&nbsp;&nbsp;&nbsp; Array
