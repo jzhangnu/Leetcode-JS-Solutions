@@ -514,3 +514,30 @@ M[79. Word Search](https://leetcode.com/problems/word-search/)&nbsp;&nbsp;&nbsp;
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/112)&nbsp;&nbsp;&nbsp;&nbsp;
 +++ &nbsp;&nbsp;&nbsp;&nbsp; Array
+
+Jan 25
+
+[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/112)&nbsp;&nbsp;&nbsp;&nbsp;
++++++ &nbsp;&nbsp;&nbsp;&nbsp; Array
+
+[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/113)&nbsp;&nbsp;&nbsp;&nbsp;
++++ &nbsp;&nbsp;&nbsp;&nbsp; String
+
+[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/114)&nbsp;&nbsp;&nbsp;&nbsp;
++++ &nbsp;&nbsp;&nbsp;&nbsp; Array Binary Search
+
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/search-insert-position/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/115)&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; Array Binary Search
+
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/search-insert-position/)&nbsp;&nbsp;&nbsp;
+
+[Solutions](https://github.com/jzhangnu/leetcode-js/issues/115)&nbsp;&nbsp;&nbsp;&nbsp;
++++ &nbsp;&nbsp;&nbsp;&nbsp; Array Binary Search
