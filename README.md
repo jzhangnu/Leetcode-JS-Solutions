@@ -541,3 +541,13 @@ Jan 25
 
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/115)&nbsp;&nbsp;&nbsp;&nbsp;
 +++ &nbsp;&nbsp;&nbsp;&nbsp; Array Binary Search
+
+
+Feb 17
+
+[506. Relative Ranks](https://leetcode.com/problems/relative-ranks/)&nbsp;&nbsp;&nbsp;
+++ &nbsp;&nbsp;&nbsp;&nbsp; Hashmap
+
+
+
+
