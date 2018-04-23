@@ -1,34 +1,18 @@
 # leetcode-js
-Jun 22
 
-[1.Two Sum](https://leetcode.com/problems/two-sum/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/1)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table || Sort
+|  #  | Title           |  Solution       | Difficulty    | Tag          |
+|-----|---------------- | --------------- | ------------- |--------------|
+**** | [****](https://leetcode.com/problems/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/) |  |  |
+**1** | [**Two Sum**](https://leetcode.com/problems/two-sum/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/1) |Easy|Hash Table|
+**344** | [**Reverse String**](https://leetcode.com/problems/reverse-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/2) |Easy||
+**258** | [**Add Digits**](https://leetcode.com/problems/add-digits/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/3) | E | Math |
+**104** | [**Maximum Depth of Binary Tree**](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/4) | E | DFS |
+**226** | [**Invert Binary Tree**](https://leetcode.com/problems/invert-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/5) | E | Tree |
+**283**| [**Move Zeroes**](https://leetcode.com/problems/move-zeroes/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/6) | E |  |
+**349** | [**Intersection of Two Arrays**](https://leetcode.com/problems/intersection-of-two-arrays/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/7) | E | Binary Search / Hash Table |
+**100** | [**Same Tree**](https://leetcode.com/problems/same-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/8) | Easy |  DFS |
+**242** | [**Valid Anagram**](https://leetcode.com/problems/valid-anagram) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/9) |  E | Hash Table |
 
-[344. Reverse String](https://leetcode.com/problems/reverse-string/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/2)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[258. Add Digits](https://leetcode.com/problems/add-digits/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/3)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Jun 23
-
-[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/4)&nbsp;&nbsp;&nbsp;&nbsp;
-Divide and Conquer || Recursion || Binary Tree
-
-[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/5)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Jun 24
-
-[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/6)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Jun 26
-
-[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/7)&nbsp;&nbsp;&nbsp;&nbsp;
 
 [100. Same Tree](https://leetcode.com/problems/same-tree/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/8)&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +23,7 @@ Jun 26
 Jun 29
 
 [169. Majority Element](https://leetcode.com/problems/majority-element/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/10)&nbsp;&nbsp;&nbsp;&nbsp;
+[题解](https://github.com/jzhangnu/leetcode-js/issues/10)&nbsp;&nbsp;&nbsp;&nbsp
 
 [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/11)&nbsp;&nbsp;&nbsp;&nbsp;
