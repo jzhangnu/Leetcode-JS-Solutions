@@ -19,66 +19,21 @@
 **206** | [**Reverse Linked List**](https://leetcode.com/problems/reverse-linked-list) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/14) | E |  |
 **387** | [**First Unique Character in a String**](https://leetcode.com/problems/first-unique-character-in-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/15) | E | Hash Table / String |
 **412** | [**Fizz Buzz**](https://leetcode.com/problems/fizz-buzz/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/16) | E |  |
-
-Oct 19
-
-[326. Power of Three](https://leetcode.com/problems/power-of-three/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/17)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[136. Single Number](https://leetcode.com/problems/single-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/18)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/19)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Oct 21
-
-[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/20)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/21)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[263. Ugly Number](https://leetcode.com/problems/ugly-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/22)&nbsp;&nbsp;&nbsp;&nbsp;
-
-*[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/24)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Oct 25
-
-*[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/25)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Oct 26
-
-[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/26)&nbsp;&nbsp;&nbsp;&nbsp;
-Divide and Conquer || Recursion || Binary Tree
-
-M[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/27)&nbsp;&nbsp;&nbsp;&nbsp;
-Greedy || Enumeration
-
-[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/28)&nbsp;&nbsp;&nbsp;&nbsp;
-Binary Search || Divide and Conquer || Recursion
-
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/29)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List
-
-[404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/30)&nbsp;&nbsp;&nbsp;&nbsp;
-Recursion
-
-[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/31)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List
-
-[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/32)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List
+**326** | [**Power of Three**](https://leetcode.com/problems/power-of-three/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/17) | E | Math |
+**136** | [**Single Number**](https://leetcode.com/problems/single-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/18) | E | Hash Table |
+**83** | [**Remove Duplicates from Sorted List**](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/19) | E | Linked List |
+**121** | [**Best Time to Buy and Sell Stock**](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/20) | E | DP |
+**70** | [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/21) | E | DP |
+**263** | [**Ugly Number**](https://leetcode.com/problems/ugly-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/22)[:key:](https://github.com/jzhangnu/leetcode-js/issues/23) |  E | Math |
+**389** | [**Find the Difference**](https://leetcode.com/problems/find-the-difference/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/24) | E | Hash Table |
+**257** | [**Binary Tree Paths**](https://leetcode.com/problems/binary-tree-paths/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/25) |  |  |
+**111** | [**Minimum Depth of Binary Tree**](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/26) | E | Divide and Conquer / Binary Tree |
+**53** | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/27) | M | Greedy |
+**110** | [**Balanced Binary Tree**](https://leetcode.com/problems/balanced-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/28) | E |  Divide and Conquer / Binary Search |
+**2** | [**Add Two Numbers**](https://leetcode.com/problems/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/29) | E | Linked List |
+**404** | [**Sum of Left Leaves**](https://leetcode.com/problems/sum-of-left-leaves/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/30) | E | Recursion |
+**88** | [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/31) | E | Linked List |
+**167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Linked List |
 
 Oct 27
 
