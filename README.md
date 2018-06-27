@@ -34,16 +34,8 @@
 **404** | [**Sum of Left Leaves**](https://leetcode.com/problems/sum-of-left-leaves/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/30) | E | Recursion |
 **88** | [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/31) | E | Linked List |
 **167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Linked List |
-
-Oct 27
-
-[49. Group Anagrams](https://leetcode.com/problems/anagrams/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/33)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[229. Majority Element II](https://leetcode.com/problems/majority-element-ii/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/34)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
+**49** | [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/33) | E | Hash Table |
+**229** | [**Majority Element II**](https://leetcode.com/problems/majority-element-ii/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/34) | E | Hash Table |
 
 Oct 30
 
