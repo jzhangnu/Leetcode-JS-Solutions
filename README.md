@@ -2,7 +2,6 @@
 
 |  #  | Title           |  Solution       | Difficulty    | Tag          |
 |-----|---------------- | --------------- | ------------- |--------------|
-**** | [****](https://leetcode.com/problems/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/) |  |  |
 **1** | [**Two Sum**](https://leetcode.com/problems/two-sum/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/1) |Easy|Hash Table|
 **344** | [**Reverse String**](https://leetcode.com/problems/reverse-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/2) |Easy||
 **258** | [**Add Digits**](https://leetcode.com/problems/add-digits/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/3) | E | Math |
@@ -36,32 +35,12 @@
 **167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Linked List |
 **49** | [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/33) | E | Hash Table |
 **229** | [**Majority Element II**](https://leetcode.com/problems/majority-element-ii/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/34) | E | Hash Table |
-
-Oct 30
-
-[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/35)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/36)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Nov 1
-
-[237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)&nbsp;&nbsp;&nbsp;
-
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/37)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/38)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[27. Remove Element](https://leetcode.com/problems/remove-element/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/39)&nbsp;&nbsp;&nbsp;&nbsp;
-Two Pointers
-
-
-Nov 3
+**438** | [**Find All Anagrams in a String**](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/35) | E | Hash Table |
+**125** | [**Valid Palindrome**](https://leetcode.com/problems/valid-palindrome/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/36) | E | String |
+**237** | [**Delete Node in a Linked List**](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/37) | E | Linked List |
+**21** | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/38) | E | Linked List |
+**345** | [**Reverse Vowels of a string**](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/39) | E | String |
+**27** | [**Remove Element**](https://leetcode.com/problems/remove-element/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/40) | E | Array |
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/40)&nbsp;&nbsp;&nbsp;&nbsp;
