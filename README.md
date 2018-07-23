@@ -31,142 +31,44 @@
 **110** | [**Balanced Binary Tree**](https://leetcode.com/problems/balanced-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/28) | E |  Divide and Conquer / Binary Search |
 **2** | [**Add Two Numbers**](https://leetcode.com/problems/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/29) | E | Linked List |
 **404** | [**Sum of Left Leaves**](https://leetcode.com/problems/sum-of-left-leaves/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/30) | E | Recursion |
-**88** | [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/31) | E | Linked List |
-**167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Linked List |
+**88** | [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/31) | E | Array |
+**167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Array |
 **49** | [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/33) | E | Hash Table |
-**229** | [**Majority Element II**](https://leetcode.com/problems/majority-element-ii/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/34) | E | Hash Table |
+**229** | [**Majority Element II**](https://leetcode.com/problems/majority-element-ii/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/34) | E | Array |
 **438** | [**Find All Anagrams in a String**](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/35) | E | Hash Table |
 **125** | [**Valid Palindrome**](https://leetcode.com/problems/valid-palindrome/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/36) | E | String |
-**237** | [**Delete Node in a Linked List**](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/37) | E | Linked List |
-**21** | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/38) | E | Linked List |
-**345** | [**Reverse Vowels of a string**](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/39) | E | String |
-**27** | [**Remove Element**](https://leetcode.com/problems/remove-element/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/40) | E | Array |
-
-[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/40)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[38. Count and Say](https://leetcode.com/problems/count-and-say/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/41)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-Nov 6
-
-[290. Word Pattern](https://leetcode.com/problems/word-pattern/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/42)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[219. Contains Duplicate I](https://leetcode.com/problems/contains-duplicate-ii/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/43)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/44)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-Nov 7
-
-[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/45)&nbsp;&nbsp;&nbsp;&nbsp;
-Array
-
-[189. Rotate Array](https://leetcode.com/problems/rotate-array/)&nbsp;&nbsp;&nbsp;
-Array
-
-[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/46)&nbsp;&nbsp;&nbsp;&nbsp;
-Array
-
-Nov 8
-
-[165. Compare Version Numbers](https://leetcode.com/problems/third-maximum-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/47)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[383. Ransom Note](https://leetcode.com/problems/ransom-note/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/48)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/49)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/50)&nbsp;&nbsp;&nbsp;&nbsp;
-String || Stack
-
-
-Nov 9
-
-[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/51)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/52)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[202. Happy Number](https://leetcode.com/problems/happy-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/53)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/54)&nbsp;&nbsp;&nbsp;&nbsp;
-Stack
-
-Nov 10
-
-[225. Implement Stack using Queues](https://leetcode.com/problems/longest-common-prefix/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/55)&nbsp;&nbsp;&nbsp;&nbsp;
-Stack
-
-[198. House Robber](https://leetcode.com/problems/house-robber/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/56)&nbsp;&nbsp;&nbsp;&nbsp;
-DP
-
-[303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/57)&nbsp;&nbsp;&nbsp;&nbsp;
-DP
-
-[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/58)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/59)&nbsp;&nbsp;&nbsp;&nbsp;
-
-Nov 11
-
-[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/60)&nbsp;&nbsp;&nbsp;&nbsp;
-Tree
-
-[278. First Bad Version](https://leetcode.com/problems/first-bad-version/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/61)&nbsp;&nbsp;&nbsp;&nbsp;
-Binary Search
-
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/62)&nbsp;&nbsp;&nbsp;&nbsp;
-Binary Search || Greedy
-
-[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/63)&nbsp;&nbsp;&nbsp;&nbsp;
-Binary Search
-
-
-Nov 12
-
-[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/64)&nbsp;&nbsp;&nbsp;&nbsp;
-
-[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/65)&nbsp;&nbsp;&nbsp;&nbsp;
-Backtracking
-
-Nov 15
-
-[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/66)&nbsp;&nbsp;&nbsp;&nbsp;
-Two Pointers | String
+**237** | [**Delete Node in a Linked List**](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/130) | E | Linked List |
+**21** | [**Merge Two Sorted Lists**](https://leetcode.com/problems/merge-two-sorted-lists/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/37) | E | Linked List |
+**345** | [**Reverse Vowels of a string**](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/38) | E | String |
+**27** | [**Remove Element**](https://leetcode.com/problems/remove-element/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/39) | E | Array |
+**205** | [**Isomorphic Strings**](https://leetcode.com/problems/isomorphic-strings/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/40) | E | Hash Table |
+**38** | [**Count and Say**](https://leetcode.com/problems/count-and-say/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/41) | E | String |
+**290** | [**Word Pattern**](https://leetcode.com/problems/word-pattern/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/42) | E | Hash Table |
+**219** | [**Contains Duplicate I**](https://leetcode.com/problems/contains-duplicate-ii/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/43) | E | Hash Table |
+**299** | [**Bulls and Cows**](https://leetcode.com/problems/bulls-and-cows/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/44) | E | Hash Table |
+**414** | [**Third Maximum Number**](https://leetcode.com/problems/third-maximum-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/45) | E | Array |
+**189** | [**Rotate Array**](https://leetcode.com/problems/rotate-array/) | [:key:]() | E | Array |
+**118** | [**Pascal's Triangle**](https://leetcode.com/problems/pascals-triangle/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/46) | E | Array |
+**165** | [**Compare Version Numbers**](https://leetcode.com/problems/compare-version-numbers/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/47) | E | Array |
+**383** | [**Ransom Note**](https://leetcode.com/problems/ransom-note/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/48) | E | String |
+**58** | [**Length of Last Word**](https://leetcode.com/problems/length-of-last-word/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/49) | E | String |
+**20** | [**Valid Parentheses**](https://leetcode.com/problems/valid-parentheses/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/50) | E | String |
+**14** | [**Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/51) | E | String |
+**6** | [**ZigZag Conversion**](https://leetcode.com/problems/zigzag-conversion/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/52) | E | String |
+**202** | [**Happy Number**](https://leetcode.com/problems/happy-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/53) | E | Hash Table |
+**441** | [**Arranging Coins**](https://leetcode.com/problems/arranging-coins/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/54) | E | Hash Table |
+**225** | [**Implement Stack using Queues**](https://leetcode.com/problems/longest-common-prefix/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/55) | E | Stack |
+**198** | [**House Robber**](https://leetcode.com/problems/house-robber/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/56) | E | DP |
+**303** | [**Range Sum Query - Immutable**](https://leetcode.com/problems/range-sum-query-immutable/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/57) | E | DP |
+**448** | [**Find ALL Numbers Disappeared in an Array**](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/58) | E | DP |
+**26** | [**Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/59) | E | DP |
+**235** | [**Lowest Common Ancestor of a Binary Search Tree**](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/60) | E | Tree |
+**278** | [**First Bad Version**](https://leetcode.com/problems/first-bad-version/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/61) | E | Binary Search |
+**392** | [**Is Subsequence**](https://leetcode.com/problems/is-subsequence/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/62) | E | Binary Search | Greedy |
+**230** | [**Kth Smallest Element in a BST**](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/63) | E | Binary Search |
+**9** | [**Palindrome Number**](https://leetcode.com/problems/palindrome-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/64) | E | |
+**131** | [**Palindrome Partitioning**](https://leetcode.com/problems/palindrome-partitioning/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/65) | E | Backtracking |
+**28** | [**Implement strStr()**](https://leetcode.com/problems/implement-strstr/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/66) | E | Two Pointers | String |
 
 [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)&nbsp;&nbsp;&nbsp;
 [题解](https://github.com/jzhangnu/leetcode-js/issues/67)&nbsp;&nbsp;&nbsp;&nbsp;
