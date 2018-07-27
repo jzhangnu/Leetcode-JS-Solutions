@@ -69,28 +69,12 @@
 **9** | [**Palindrome Number**](https://leetcode.com/problems/palindrome-number/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/64) | E | |
 **131** | [**Palindrome Partitioning**](https://leetcode.com/problems/palindrome-partitioning/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/65) | E | Backtracking |
 **28** | [**Implement strStr()**](https://leetcode.com/problems/implement-strstr/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/66) | E | Two Pointers | String |
-
-[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/67)&nbsp;&nbsp;&nbsp;&nbsp;
-Array
-
-Nov 16
-
-[204. Count Primes](https://leetcode.com/problems/count-primes/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/68)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table | Math
-
-[396. Rotate Function](https://leetcode.com/problems/rotate-function/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/69)&nbsp;&nbsp;&nbsp;&nbsp;
-Math
-
-[203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/70)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List
-
-[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)&nbsp;&nbsp;&nbsp;
-[题解](https://github.com/jzhangnu/leetcode-js/issues/71)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List | two pointers 
+**515** | [**Find Largest Value in Each Tree Row**](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/131) | M | DFS |
+**119** | [**Pascal's Triangle II**](https://leetcode.com/problems/pascals-triangle-ii/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/67) | E | Array |
+**204** | [**Count Primes**](https://leetcode.com/problems/count-primes/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/68) | E | Hash Table |
+**396** | [**Rotate Function**](https://leetcode.com/problems/rotate-function/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/69) | E | Math |
+**203** | [**Remove Linked List Elements**](https://leetcode.com/problems/remove-linked-list-elements/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/70) | E | Linked List |
+**19** | [**Remove Nth Node From End of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/71) | E | Linked List | Two Pointers
 
 Nov 17
 
