@@ -27,9 +27,9 @@
 **389** | [**Find the Difference**](https://leetcode.com/problems/find-the-difference/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/24) | E | Hash Table |
 **257** | [**Binary Tree Paths**](https://leetcode.com/problems/binary-tree-paths/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/25) |  |  |
 **111** | [**Minimum Depth of Binary Tree**](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/26) | E | Divide and Conquer / Binary Tree |
-**53** | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/27) | M | Greedy |
-**110** | [**Balanced Binary Tree**](https://leetcode.com/problems/balanced-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/28) | E |  Divide and Conquer / Binary Search |
-**2** | [**Add Two Numbers**](https://leetcode.com/problems/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/29) | E | Linked List |
+**53** | [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/27) | M | Divide and Conquer / DP |
+**110** | [**Balanced Binary Tree**](https://leetcode.com/problems/balanced-binary-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/28) | E | DFS |
+**2** | [**Add Two Numbers**](https://leetcode.com/problems/add-two-numbers/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/29) | M | Linked List |
 **404** | [**Sum of Left Leaves**](https://leetcode.com/problems/sum-of-left-leaves/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/30) | E | Recursion |
 **88** | [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/31) | E | Array |
 **167** | [**Two Sum II - Input array is sorted**](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/32) | E | Array |
