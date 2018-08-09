@@ -75,48 +75,19 @@
 **396** | [**Rotate Function**](https://leetcode.com/problems/rotate-function/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/69) | E | Math |
 **203** | [**Remove Linked List Elements**](https://leetcode.com/problems/remove-linked-list-elements/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/70) | E | Linked List |
 **19** | [**Remove Nth Node From End of List**](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/71) | E | Linked List | Two Pointers
+**844** | [**Backspace String Compare**](https://leetcode.com/problems/backspace-string-compare/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/132) | E | Two Pointers
+**784** | [**Letter Case Permutation**](https://leetcode.com/problems/backspace-string-compare/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/133) | E | Backtracking
+**234** | [**Palindrome Linked List**](https://leetcode.com/problems/palindrome-linked-list/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/72) | E | Linked List | two pointers
+**112** | [**Path Sum**](https://leetcode.com/problems/path-sum/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/73) | E | DFS
+**36** | [**Valid Sudoku**](https://leetcode.com/problems/valid-sudoku/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/74) | E | Hash Table
+**141** | [**Linked List Cycle**](https://leetcode.com/problems/linked-list-cycle/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/75) | E | Linked List | two pointers
+**102** | [**Binary Tree Level Order Traversal**](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/76) | E | BFS
+**24** | [**Swap Nodes in Pairs**](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/78) | M | Linked List
+**101** | [**Symmetric Tree**](https://leetcode.com/problems/symmetric-tree/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/77) | E | BFS
+**459** | [**Repeated Substring Pattern**](https://leetcode.com/problems/repeated-substring-pattern/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/79) | E | String
+**455** | [**Assign Cookies**](https://leetcode.com/problems/assign-cookies/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/80) | E | Greedy
+**832** | [**Flipping an Image**](https://leetcode.com/problems/flipping-an-image/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/80) | E | Array
 
-Nov 17
-
-[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/72)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List | two pointers
-
-[112. Path Sum](https://leetcode.com/problems/path-sum/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/73)&nbsp;&nbsp;&nbsp;&nbsp;
-Tree | DFS
-
-[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/74)&nbsp;&nbsp;&nbsp;&nbsp;
-Hash Table
-
-Nov 20
-
-[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/75)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List | two pointers
-
--[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/76)&nbsp;&nbsp;&nbsp;&nbsp;
-Tree | BFS
-
-[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/77)&nbsp;&nbsp;&nbsp;&nbsp;
-Tree | BFS
-
-Nov 28
-
-[24. Swap Nodes in Pairs](https://leetcode.com/problems/linked-list-cycle/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/78)&nbsp;&nbsp;&nbsp;&nbsp;
-Linked List
-
-[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/79)&nbsp;&nbsp;&nbsp;&nbsp;
-String
-
-[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/80)&nbsp;&nbsp;&nbsp;&nbsp;
-Greedy
 
 Nov 29
 
