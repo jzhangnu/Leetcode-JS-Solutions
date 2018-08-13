@@ -88,6 +88,8 @@
 **455** | [**Assign Cookies**](https://leetcode.com/problems/assign-cookies/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/80) | E | Greedy
 **832** | [**Flipping an Image**](https://leetcode.com/problems/flipping-an-image/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/80) | E | Array
 **566** | [**Reshape the Matrix**](https://leetcode.com/problems/reshape-the-matrix/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/135) | E | Array
+**643** | [**Maximum Average Subarray I**](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/136) | E | Array
+**674** | [**Longest Continuous Increasing Subsequence**](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/137) | E | Array
 
 
 Nov 29
