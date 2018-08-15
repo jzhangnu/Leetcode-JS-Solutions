@@ -90,7 +90,10 @@
 **566** | [**Reshape the Matrix**](https://leetcode.com/problems/reshape-the-matrix/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/135) | E | Array
 **643** | [**Maximum Average Subarray I**](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/136) | E | Array
 **674** | [**Longest Continuous Increasing Subsequence**](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/137) | E | Array
-
+**766** | [**Toeplitz Matrix**](https://leetcode.com/problems/toeplitz-matrix/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/138) | E | Array
+**867** | [**Transpose Matrix**](https://leetcode.com/problems/transpose-matrix/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/139) | E | Array
+**804** | [**Unique Morse Code Words**](https://leetcode.com/problems/unique-morse-code-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/140) | E | String
+**657** | [**Judge Route Circle**](https://leetcode.com/problems/judge-route-circle/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/141) | E | String
 
 Nov 29
 
