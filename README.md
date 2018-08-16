@@ -94,6 +94,7 @@
 **867** | [**Transpose Matrix**](https://leetcode.com/problems/transpose-matrix/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/139) | E | Array
 **804** | [**Unique Morse Code Words**](https://leetcode.com/problems/unique-morse-code-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/140) | E | String
 **657** | [**Judge Route Circle**](https://leetcode.com/problems/judge-route-circle/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/141) | E | String
+**696** | [**Count Binary Substrings**](https://leetcode.com/problems/count-binary-substrings/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/142) | E | String
 
 Nov 29
 
