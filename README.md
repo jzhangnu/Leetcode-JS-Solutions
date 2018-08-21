@@ -95,6 +95,7 @@
 **804** | [**Unique Morse Code Words**](https://leetcode.com/problems/unique-morse-code-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/140) | E | String
 **657** | [**Judge Route Circle**](https://leetcode.com/problems/judge-route-circle/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/141) | E | String
 **696** | [**Count Binary Substrings**](https://leetcode.com/problems/count-binary-substrings/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/142) | E | String
+**841** | [**Keys and Rooms**](https://leetcode.com/problems/keys-and-rooms/) | [:key:] [:key:](https://github.com/jzhangnu/leetcode-js/issues/142) | M | DFS
 
 Nov 29
 
