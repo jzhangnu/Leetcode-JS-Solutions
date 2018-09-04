@@ -99,6 +99,10 @@
 **513** | [**Find Bottom Left Tree Value**](https://leetcode.com/problems/find-bottom-left-tree-value/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/145) | M | DFS
 **515** | [**Find Largest Value in Each Tree Row**](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/146) | M | DFS
 **337** | [**House Robber III**](https://leetcode.com/problems/house-robber-iii/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/147) | M | DFS
+**739** | [**Daily Temperatures**](https://leetcode.com/problems/daily-temperatures/solution/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/148) | M | Hash Table
+**508** | [**Most Frequent Subtree Sum**](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/149) | M | Hash Table
+**554** | [**Brick Wall**](https://leetcode.com/problems/brick-wall/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/150) | M | Hash Table
+**648** | [**Replace Words**](https://leetcode.com/problems/replace-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/151) | M | Hash Table
 
 Nov 29
 
