@@ -103,6 +103,9 @@
 **508** | [**Most Frequent Subtree Sum**](https://leetcode.com/problems/most-frequent-subtree-sum/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/149) | M | Hash Table
 **554** | [**Brick Wall**](https://leetcode.com/problems/brick-wall/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/150) | M | Hash Table
 **648** | [**Replace Words**](https://leetcode.com/problems/replace-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/151) | M | Hash Table
+**692** | [**Top K Frequent Words**](https://leetcode.com/problems/top-k-frequent-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/152) | M | Hash Table
+**200** | [**Number of Islands**](https://leetcode.com/problems/number-of-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/153) | M | Hash Table
+**200** | [**Number of distinct Islands**](https://leetcode.com/problems/number-of-distinct-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/154) | M | Hash Table
 
 Nov 29
 
