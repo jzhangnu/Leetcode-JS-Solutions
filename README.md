@@ -105,7 +105,8 @@
 **648** | [**Replace Words**](https://leetcode.com/problems/replace-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/151) | M | Hash Table
 **692** | [**Top K Frequent Words**](https://leetcode.com/problems/top-k-frequent-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/152) | M | Hash Table
 **200** | [**Number of Islands**](https://leetcode.com/problems/number-of-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/153) | M | Hash Table
-**200** | [**Number of distinct Islands**](https://leetcode.com/problems/number-of-distinct-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/154) | M | Hash Table
+**694** | [**Number of distinct Islands**](https://leetcode.com/problems/number-of-distinct-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/154) | M | Hash Table
+**347** | [**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/83) | M | Hash Table
 
 Nov 29
 
@@ -116,10 +117,6 @@ Array | Hash
 M[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)&nbsp;&nbsp;&nbsp;
 [Solutions](https://github.com/jzhangnu/leetcode-js/issues/82)&nbsp;&nbsp;&nbsp;&nbsp;
 Array
-
-M[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/83)&nbsp;&nbsp;&nbsp;&nbsp;
-HashMap
 
 Nov 30
 
