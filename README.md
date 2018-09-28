@@ -106,7 +106,10 @@
 **692** | [**Top K Frequent Words**](https://leetcode.com/problems/top-k-frequent-words/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/152) | M | Hash Table
 **200** | [**Number of Islands**](https://leetcode.com/problems/number-of-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/153) | M | Hash Table
 **694** | [**Number of distinct Islands**](https://leetcode.com/problems/number-of-distinct-islands/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/154) | M | Hash Table
-**347** | [**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/83) | M | Hash Table
+**347** | [**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/83) | M | Hash TableGroup Shifted String
+**249** | [**Group Shifted String**](https://leetcode.com/problems/group-shifted-string/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/155) | M | Hash TableGroup Shifted String
+**876** | [**Middle of the Linked List**](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/156) | E | Linked List
+**876** | [**Middle of the Linked List**](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/156) | E | Linked List
 
 Nov 29
 
