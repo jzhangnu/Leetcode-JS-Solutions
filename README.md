@@ -109,17 +109,10 @@
 **347** | [**Top K Frequent Elements**](https://leetcode.com/problems/top-k-frequent-elements/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/83) | M | Hash TableGroup Shifted String
 **249** | [**Group Shifted String**](https://leetcode.com/problems/group-shifted-string/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/155) | M | Hash TableGroup Shifted String
 **876** | [**Middle of the Linked List**](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/156) | E | Linked List
-**876** | [**Middle of the Linked List**](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/156) | E | Linked List
+**238** | [**Product of Array Except Self**](https://leetcode.com/problems/product-of-array-except-self/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/82) | M | Array
+**260** | [**Single Number III**](https://leetcode.com/problems/problems/single-number-iii/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/81) | M | Array
+**724** | [**Find Pivot Index**](https://leetcode.com/problems/find-pivot-index/description/) | [:key:](https://github.com/jzhangnu/leetcode-js/issues/157) | M | Array
 
-Nov 29
-
-M[260. Single Number III](https://leetcode.com/problems/single-number-iii/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/81)&nbsp;&nbsp;&nbsp;&nbsp;
-Array | Hash
-
-M[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)&nbsp;&nbsp;&nbsp;
-[Solutions](https://github.com/jzhangnu/leetcode-js/issues/82)&nbsp;&nbsp;&nbsp;&nbsp;
-Array
 
 Nov 30
 
